@@ -1,0 +1,31 @@
+@media screen and (max-width: 768px) {
+    .card {
+        margin-top: 10px;
+        padding: 10px;
+    }
+
+    .card h2 {
+        font-size: 20px;
+    }
+
+    .card-item {
+        margin-bottom: 10px;
+    }
+
+    .lines {
+        margin-top: 8px;
+    }
+
+    .line1 {
+        font-size: 16px;
+    }
+
+    .line2 {
+        font-size: 14px;
+    }
+
+    .line3 {
+        font-size: 14px;
+        margin-top: 8px;
+    }
+}

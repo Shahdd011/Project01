@@ -1,0 +1,47 @@
+.card {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+
+.card h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.card-item {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.card-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.lines {
+    margin-top: 10px;
+}
+
+.line1 {
+    font-size: 18px;
+    color: #333;
+}
+
+.line2 {
+    font-size: 16px;
+    color: #777;
+}
+
+.line3 {
+    font-size: 16px;
+    color: #007bff;
+    cursor: pointer;
+    margin-top: 10px;
+}
